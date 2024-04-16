@@ -27,8 +27,11 @@
 
 идете назад в Дискорд и вставляете на канале - "MOTIBIO-VERIFICATION".
 ![image](https://github.com/djbolya/moti/assets/41238402/474b08a8-2406-4987-97c7-1be67cb765c8)
-![image](https://github.com/djbolya/moti/assets/41238402/f7e22f5d-f7d9-498d-8d57-da131c3b7cfc)
 
 После этого вам напишет что вы успешно верифицировались.
+
+![image](https://github.com/djbolya/moti/assets/41238402/f7e22f5d-f7d9-498d-8d57-da131c3b7cfc)
+
+
 Готово!
  
